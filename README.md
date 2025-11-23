@@ -1,10 +1,10 @@
-# 🏰 Zork GPT Playground
+[#] 🏰 Zork GPT Playground
 
 A modern, AI-enhanced version of the classic Zork 1 text adventure. 
 Play with **Ollama** (local), **OpenAI**, **Gemini**, **Claude**, or **Groq**.
 Generate images of your adventure using **DALL-E 3** or **Stable Diffusion**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/GPT-zork1/blob/main/zork_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zacmario/GPT-zork1/blob/main/zork_colab.ipynb)
 
 ## Features
 - **Multi-Provider Support**: Switch between LLMs on the fly.
